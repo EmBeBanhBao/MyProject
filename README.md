@@ -10,3 +10,4 @@ I'm looking for a cybersecurity internship, especially a SOC analyst role, to ap
   Networking & Security: Network protocols, Wireshark, Splunk, LimaCharlie
   Programming Languages: C++, Java, MIPS 
 
+Check out my Active Directory project: [Docs](https://docs.google.com/document/d/11Kt6-Rg1MfzS-A7LXUR948E9rwcu9Sh4PqQ9YeOpm-U/edit?usp=sharing)
