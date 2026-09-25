@@ -27,5 +27,6 @@ I'm looking for a cybersecurity internship, especially a SOC analyst role, to ap
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MIPS](https://img.shields.io/badge/MIPS-DD2C00?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 Check out my Active Directory project: [Docs](https://docs.google.com/document/d/11Kt6-Rg1MfzS-A7LXUR948E9rwcu9Sh4PqQ9YeOpm-U/edit?usp=sharing)
